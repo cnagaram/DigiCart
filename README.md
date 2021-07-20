@@ -1,5 +1,5 @@
 # DigiCart
-csp-584 Project DigiCart is digital marketing website
+Project DigiCart is digital marketing website
 
 Visualization of Most viewed products: Most view product details  are stored in SQL Table (i.e Searchhistory). Based on the user information available in table , Bar-Chart is generated.  
 
